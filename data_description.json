@@ -1,0 +1,24 @@
+{
+    "columns": [
+        {
+            "name": "country",
+            "type": "string",
+            "description": "Country name; in this case, always 'Philippines'"
+        },
+        {
+            "name": "year",
+            "type": "integer",
+            "description": "Calendar year between 2001 and 2020"
+        },
+        {
+            "name": "primary enrollment",
+            "type": "float",
+            "description": "Net primary school enrollment percentage in the Philippines"
+        },
+        {
+            "name": "GDP per capita",
+            "type": "float",
+            "description": "Gross Domestic Product per capita in current US dollars for the Philippines"
+        }
+    ]
+}
